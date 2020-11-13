@@ -5,4 +5,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 6 hours coding everyday.
 
-[![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=Pusheen2019)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pusheen2019&show_icons=true&theme=radical)
